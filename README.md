@@ -1,5 +1,5 @@
 # Hamster - The Gnome Time Tracker
-
+Testing
 Hamster is time tracking for individuals. It helps you to keep track of how
 much time you have spent during the day on activities you choose to track.
 
